@@ -195,8 +195,8 @@ Mejoras que implementare a futuro:
 
 ## Contacto
 
-Desarrollada por Ana Rivera
-Email: [ana.rivera2023@gmail.com](mailto:ana.rivera2023@gmail.com)
+-Desarrollada por Ana Rivera
+-Email: [ana.rivera2023@gmail.com](mailto:ana.rivera2023@gmail.com)
 
 --- 
 
