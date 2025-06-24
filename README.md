@@ -192,8 +192,9 @@ Planned future improvements:
 
 ## Contact
 
-Developed by Ana Rivera
-Email: [ana.rivera2023@gmail.com](mailto:ana.rivera2023@gmail.com)
+-Developed by Ana Rivera
+
+-Email: [ana.rivera2023@gmail.com](mailto:ana.rivera2023@gmail.com)
 
 ---
 
